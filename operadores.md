@@ -114,6 +114,78 @@ ahora priorizamos potencia
 
 10 * 9 = 90
 
+Ejercicio 11
+Expresión:
+7 + 2 * (3 + 5) / 4
+
+resolvemos primero parentesis
+
+(3 + 5) = 8
+7 + 2 * 8 / 4 
+
+despues priorizamos operadores como * /
+
+2 * 8 = 16 
+16 / 4 = 4.0 
+7 + 4.0 = 11.0  resulatdo es 11.0
+
+Ejercicio 12
+Expresión:
+2 ** 3 * 4 / 2 
+
+resolvemos operadores 
+
+2 ** 3 = 8 
+
+8 * 4 = 32 
+
+32 / 2 = 16.0 respuesta 16.0 por que el operador / siempre devuelve decimal
+
+Ejercicio 13
+Expresión:
+9 - 6 + 3 ** 2
+
+resolvemos operadores 
+
+3 ** 2 = 9
+
+resolvemos los demas operadores como son del mismo nivel resolvemos de izquierda a derecha nos queda 
+9 - 6 = 3 
+3 + 9 = 12 
+
+Ejercicio 14
+Expresión:
+(7 - 2) * 5 + 3 ** 2
+
+primero parentesis 
+
+(7 - 2) = 5 
+5 * 5 + 3 ** 2 
+
+ahora operedores como ** 
+3 ** 2 = 9 
+
+nos queda 
+
+5 * 5 + 9 
+5 * 5 = 25 
+25 + 9 = 34
+
+Ejercicio 15
+Expresión:
+4 * 2 ** 3 / 8 + 1
+
+primero los operadores principales
+
+2 ** 3 = 8 
+4 * 8 / 8 + 1 
+
+los demas parentesis que falta 
+4 * 8 = 32 
+32 / 8 = 4.0 queda en decimal por su operador /
+4.0 + 1 = 5.0 
+
+
 
 
 
