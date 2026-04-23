@@ -1,0 +1,4 @@
+Seccion 1
+-de la seccion 1 en el ejercico print cuando le quito las comillas para imprimir me votaron un error de sistasis de caracter invalido ya que si deseo imprimir un texto en pantalla deberia ir con comillas de lo contrario si no las coloco python lo tomaria como una variale y como no existe esa varible me da error 
+
+-Si le quitamos los parentesis no dara error de sistasis pero esta ve que nos faltan los parentisis ya que anteriormente print en python era una instruccion y se ponia escribir asi pero ahora print es una funcion de python lo cual debe escribirse con parentesis para recibir un argumento
